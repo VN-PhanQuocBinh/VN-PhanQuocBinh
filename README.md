@@ -90,7 +90,7 @@ I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong sel
 *Sep 2025 – Dec 2025*
 * **Description:** A library management system featuring Semantic Search (Vector Search) and an integrated AI assistant.
 * **Responsibilities:** Developed RESTful APIs, managed JWT authentication, handled Cloudinary storage, and built the interactive UI. Implemented Semantic Search using embeddings from AI Studio/Hugging Face. Containerized the application using Docker and deployed production-ready Docker images to Render.
-* **Tech Stack:** `Vue.js`, `PrimeVue`, `Express.js (TypeScript)`, `MongoDB`, `Docker`, `Cloudinary`, and `AI Studio/Hugging Face APIs`.
+* **Tech Stack:** `Vue.js`, `PrimeVue`, `Express.js (TypeScript)`, `MongoDB`, `Docker`, `Cloudinary`, `AI Studio/Hugging Face APIs`, `Docker`, `Render`.
 
 ---
 
