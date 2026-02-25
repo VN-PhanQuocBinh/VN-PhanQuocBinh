@@ -13,6 +13,7 @@
 ---
 
 ## 💫 About Me
+
 I am **Phan Quốc Bình**, a highly adaptable Frontend Developer with a strong self-learning spirit. Currently, I am a Software Engineering student at **Can Tho University** with a **GPA of 3.8/4.0**. I specialize in building high-performance UIs and integrating AI-driven features to deliver impactful user experiences.
 
 - 🎓 **Software Engineering** at **Can Tho University** (GPA: 3.8/4.0)
@@ -26,34 +27,41 @@ I am **Phan Quốc Bình**, a highly adaptable Frontend Developer with a strong 
 ## 💼 Professional Experience
 
 ### **Frontend Developer (Remote/Part-time)** | [Giratech AI](https://ai168.vn)
-*Jul 2025 – Feb 2026*
-* **AI168 & CMS:** Built UI and integrated APIs for Auth, Search, and Profile modules using **Next.js** and **Zustand**.
-* **GiraTech Website:** Implemented complex animations with **Framer Motion** and handled Markdown rendering for AI meeting summaries.
-* **Loyalty App CMS:** Developed reusable components and CRUD workflows with **React Query** and **Shaden UI**.
+
+_Jul 2025 – Feb 2026_
+
+- **AI168 & CMS:** Built UI and integrated APIs for Auth, Search, and Profile modules using **Next.js** and **Zustand**.
+- **GiraTech Website:** Implemented complex animations with **Framer Motion** and handled Markdown rendering for AI meeting summaries.
+- **Loyalty App CMS:** Developed reusable components and CRUD workflows with **React Query** and **Shaden UI**.
 
 ### **Fullstack Developer (Academic Project)** | Website Quản lý sách thông minh
-*Sep 2025 – Dec 2025*
-* **AI & Semantic Search:** Implemented Vector Search using **AI Studio/Hugging Face** and developed RESTful APIs with **Express.js**.
+
+_Sep 2025 – Dec 2025_
+
+- **AI & Semantic Search:** Implemented Vector Search using **AI Studio/Hugging Face** and developed RESTful APIs with **Express.js**.
 
 ---
 
 ## 🧠 Tech Stack
 
 ### Frontend
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Framer Motion](https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Tools & Others
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -76,10 +84,18 @@ I am **Phan Quốc Bình**, a highly adaptable Frontend Developer with a strong 
 ---
 
 ## 📞 Contact
+
 - 📧 Email: [binh26042005@gmail.com](mailto:binh26042005@gmail.com)
 - 💼 LinkedIn: [Link LinkedIn của bạn tại đây]
 - 📱 (+84) 38 740 5218
 
+## 🐍 Snake Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VN-PhanQuocBinh/VN-PhanQuocBinh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VN-PhanQuocBinh/VN-PhanQuocBinh/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/VN-PhanQuocBinh/VN-PhanQuocBinh/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 > “The best way to learn is to build.” – Let’s connect and build something meaningful together!
