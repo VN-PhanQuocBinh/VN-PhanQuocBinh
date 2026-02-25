@@ -2,47 +2,29 @@
   <img src="https://github.com/Yasmixe/Yasmixe/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Intro GIF" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world!+I+am+Phan+Quoc+Binh;Frontend+Developer;Software+Engineering+Student" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=7CBBFF&center=true&vCenter=true&width=1000&height=100&lines=Hello+world!+I+am+Phan+Quoc+Binh;Software+Engineer+Student)](https://git.io/typing-svg)
 
-<h3 align="center">🚀 Frontend Developer | 🎓 Software Engineering at Can Tho University | 💡 AI & Web Solutions Enthusiast</h3>
+### <p align="center">Frontend Developer</p>
 
 ---
 
 ## 💫 About Me
 
-I am **Phan Quốc Bình**, a highly adaptable Frontend Developer with a strong self-learning spirit. Currently, I am a Software Engineering student at **Can Tho University** with a **GPA of 3.8/4.0**. I specialize in building high-performance UIs and integrating AI-driven features to deliver impactful user experiences.
-
-- 🎓 **Software Engineering** at **Can Tho University** (GPA: 3.8/4.0)
-- 🏆 **TOEIC 675** (Jan 2026)
-- 💼 **Frontend Developer** at **Giratech AI**
-- 🤖 Experienced in **AI integration** (Semantic Search, AI Assistants)
-- 📍 Based in **Can Tho, Vietnam**
+I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong self-learning spirit. Currently, I am a Software Engineering student at **Can Tho University** with a **GPA of 3.8/4.0**. I specialize in building high-performance UIs and integrating AI-driven features to deliver impactful user experiences.
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Education & Certifications
 
-### **Frontend Developer (Remote/Part-time)** | [Giratech AI](https://ai168.vn)
+| Institution / Certification | Achievement | Period |
+| :--- | :--- | :--- |
+| **Can Tho University** <br> *Bachelor of Software Engineering* | ![GPA](https://img.shields.io/badge/GPA-3.8%20%2F%204.0-gold?style=flat-square&logo=google-scholar&logoColor=white) | 2023 - 2027 |
+| **TOEIC Proficiency** <br> *English Certification* | ![TOEIC](https://img.shields.io/badge/TOEIC-675-blue?style=flat-square&logo=academia&logoColor=white) | Jan 2026 |
 
-_Jul 2025 – Feb 2026_
-
-- **AI168 & CMS:** Built UI and integrated APIs for Auth, Search, and Profile modules using **Next.js** and **Zustand**.
-- **GiraTech Website:** Implemented complex animations with **Framer Motion** and handled Markdown rendering for AI meeting summaries.
-- **Loyalty App CMS:** Developed reusable components and CRUD workflows with **React Query** and **Shaden UI**.
-
-### **Fullstack Developer (Academic Project)** | Website Quản lý sách thông minh
-
-_Sep 2025 – Dec 2025_
-
-- **AI & Semantic Search:** Implemented Vector Search using **AI Studio/Hugging Face** and developed RESTful APIs with **Express.js**.
 
 ---
 
-## 🧠 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
@@ -69,21 +51,62 @@ _Sep 2025 – Dec 2025_
 
 ---
 
+## 💼 Professional Experience
+
+### **Frontend Developer (Remote/Part-time)** | Giratech AI
+*Jul 2025 – Feb 2026*
+
+**1. AI168 & CMS (AI Support Platform) ([ai168.vn](https://ai168.vn))**
+* **Description:** An integrated AI assistant system that automates tasks across sales, customer service, and human resources.
+* **Responsibilities:** Developed the UI and integrated APIs for core modules including Auth, Search, Profile, and Landing Pages. Built a custom CMS with flexible, template-based reusable Table components.
+* **Tech Stack:** `Next.js`, `TypeScript`, `Tailwind CSS`, `Shaden UI`, `Zustand`, `Axios`, `i18n`, `Zod`, and `React-hook-form`.
+
+**2. GiraTech Landing Page (Corporate Website) ([giratech.vn](https://giratech.vn/))**
+* **Description:** A corporate introduction website featuring an intelligent meeting summary tool.
+* **Responsibilities:** Implemented complex animations using Framer Motion and handled Markdown rendering from APIs for the "Smart Meeting Summary" feature.
+* **Tech Stack:** `Next.js`, `Tailwind CSS`, `TypeScript`, `Framer Motion`, `Swiper`, and `Shaden UI`.
+
+**3. 10Web Clone (SaaS Website)**
+* **Description:** A high-fidelity reconstruction of the 10web.io automated website builder platform.
+* **Responsibilities:** Developed a comprehensive library of reusable UI components to recreate the platform's interface with pixel-perfect accuracy and smooth transitions.
+* **Tech Stack:** `Next.js`, `TypeScript`, `Tailwind CSS`, `Framer Motion`, `Swiper`, `Shaden UI`, and `Radix UI`.
+
+**4. Loyalty App CMS (Member Management)**
+* **Description:** An administrative system for customer loyalty applications.
+* **Responsibilities:** Designed and implemented CRUD workflows for administrative data tables and developed highly reusable UI components.
+* **Tech Stack:** `Next.js`, `TypeScript`, `Shaden UI`, `React Query (TanStack)`, `Zod`, and `React-hook-form`.
+
+---
+
+## 🏗️ Academic Projects
+
+### **1. Graph Theory Algorithm Simulator**
+*Jan 2026 – May 2026 (Expected)*
+* **Description:** A desktop application for visualizing graph algorithms like DFS and Hierholzer using Cytoscape.js.
+* **Responsibilities:** Designed an interactive UI for graph CRUD operations and step-by-step algorithm simulation with real-time speed control. Managed data via JSON files and implemented image export features.
+* **Tech Stack:** `Electron`, `Cytoscape.js`, `ReactJS`, `TypeScript`, `Tailwind CSS`, `Shaden UI`, and `Zustand`.
+
+### **2. Smart Book Management & Search Website**
+*Sep 2025 – Dec 2025*
+* **Description:** A library management system featuring Semantic Search (Vector Search) and an integrated AI assistant.
+* **Responsibilities:** Developed RESTful APIs, managed JWT authentication, handled Cloudinary storage, and built the interactive UI. Implemented Semantic Search using embeddings from AI Studio/Hugging Face.
+* **Tech Stack:** `Vue.js`, `PrimeVue`, `Express.js (TypeScript)`, `MongoDB`, `Docker`, `Cloudinary`, and `AI Studio/Hugging Face APIs`.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VN-PhanQuocBinh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VN-PhanQuocBinh&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VN-PhanQuocBinh&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VN-PhanQuocBinh&theme=dark&hide_border=false" alt="Streak Stats" /><br/><br/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-PhanQuocBinh&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Contributions" alt="Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-PhanQuocBinh&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Contributions" alt="Activity Graph" />
 </div>
 
 ---
 
-## 📞 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="mailto:binh26042005@gmail.com">
@@ -104,8 +127,7 @@ _Sep 2025 – Dec 2025_
 - 📱 **Direct:** (+84) 38 740 5218 
 
 ---
-
-## 🐍 Snake Contribution
+## Contribution
 
 ![Snake animation](https://github.com/VN-PhanQuocBinh/VN-PhanQuocBinh/blob/output/github-snake.svg)
 ---
