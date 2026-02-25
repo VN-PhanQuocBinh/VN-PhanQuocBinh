@@ -83,11 +83,27 @@ _Sep 2025 – Dec 2025_
 
 ---
 
-## 📞 Contact
+## 📞 Connect with Me
 
-- 📧 Email: [binh26042005@gmail.com](mailto:binh26042005@gmail.com)
-- 💼 LinkedIn: [Link LinkedIn của bạn tại đây]
-- 📱 (+84) 38 740 5218
+<p align="left">
+  <a href="mailto:binh26042005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/b%C3%ACnh-phan-37b555317/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="tel:+84387405218">
+    <img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</p>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/quocbinh.phan.7509)
+
+- 📍 **Location:** Can Tho City, Vietnam [cite: 6]
+- 💼 **Open to:** Frontend Developer roles [cite: 2]
+- 📱 **Direct:** (+84) 38 740 5218 
+
+---
 
 ## 🐍 Snake Contribution
 
