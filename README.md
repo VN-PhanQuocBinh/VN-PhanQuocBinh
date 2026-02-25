@@ -91,11 +91,7 @@ _Sep 2025 – Dec 2025_
 
 ## 🐍 Snake Contribution
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VN-PhanQuocBinh/VN-PhanQuocBinh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VN-PhanQuocBinh/VN-PhanQuocBinh/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/VN-PhanQuocBinh/VN-PhanQuocBinh/output/github-snake-dark.svg">
-</picture>
+![Snake animation](https://github.com/VN-PhanQuocBinh/VN-PhanQuocBinh/blob/output/github-snake.svg)
 ---
 
 > “The best way to learn is to build.” – Let’s connect and build something meaningful together!
