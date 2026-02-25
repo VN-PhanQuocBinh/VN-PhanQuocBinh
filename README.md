@@ -1,23 +1,85 @@
-<h1 align="center">Hi 👋, I'm Phan Quoc Binh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vn-phanquocbinh&label=Profile%20views&color=0e75b6&style=flat" alt="vn-phanquocbinh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vn-phanquocbinh" alt="vn-phanquocbinh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Foundation Project](https://github.com/VN-PhanQuocBinh)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://github.com/Yasmixe/Yasmixe/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Intro GIF" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world!+I+am+Phan+Quoc+Binh;Frontend+Developer;Software+Engineering+Student" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vn-phanquocbinh&show_icons=true&locale=en&layout=compact" alt="vn-phanquocbinh" /></p>
+<h3 align="center">🚀 Frontend Developer | 🎓 Software Engineering at Can Tho University | 💡 AI & Web Solutions Enthusiast</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vn-phanquocbinh&show_icons=true&locale=en" alt="vn-phanquocbinh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vn-phanquocbinh&" alt="vn-phanquocbinh" /></p>
+## 💫 About Me
+I am **Phan Quốc Bình**, a highly adaptable Frontend Developer with a strong self-learning spirit. Currently, I am a Software Engineering student at **Can Tho University** with a **GPA of 3.8/4.0**. I specialize in building high-performance UIs and integrating AI-driven features to deliver impactful user experiences.
+
+- 🎓 **Software Engineering** at **Can Tho University** (GPA: 3.8/4.0)
+- 🏆 **TOEIC 675** (Jan 2026)
+- 💼 **Frontend Developer** at **Giratech AI**
+- 🤖 Experienced in **AI integration** (Semantic Search, AI Assistants)
+- 📍 Based in **Can Tho, Vietnam**
+
+---
+
+## 💼 Professional Experience
+
+### **Frontend Developer (Remote/Part-time)** | [Giratech AI](https://ai168.vn)
+*Jul 2025 – Feb 2026*
+* **AI168 & CMS:** Built UI and integrated APIs for Auth, Search, and Profile modules using **Next.js** and **Zustand**.
+* **GiraTech Website:** Implemented complex animations with **Framer Motion** and handled Markdown rendering for AI meeting summaries.
+* **Loyalty App CMS:** Developed reusable components and CRUD workflows with **React Query** and **Shaden UI**.
+
+### **Fullstack Developer (Academic Project)** | Website Quản lý sách thông minh
+*Sep 2025 – Dec 2025*
+* **AI & Semantic Search:** Implemented Vector Search using **AI Studio/Hugging Face** and developed RESTful APIs with **Express.js**.
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=blue)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VN-PhanQuocBinh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VN-PhanQuocBinh&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VN-PhanQuocBinh&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-PhanQuocBinh&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Contributions" alt="Activity Graph" />
+</div>
+
+---
+
+## 📞 Contact
+- 📧 Email: [binh26042005@gmail.com](mailto:binh26042005@gmail.com)
+- 💼 LinkedIn: [Link LinkedIn của bạn tại đây]
+- 📱 (+84) 38 740 5218
+
+---
+
+> “The best way to learn is to build.” – Let’s connect and build something meaningful together!
