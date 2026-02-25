@@ -66,7 +66,7 @@ I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong sel
 * **Responsibilities:** Implemented complex animations using Framer Motion and handled Markdown rendering from APIs for the "Smart Meeting Summary" feature.
 * **Tech Stack:** `Next.js`, `Tailwind CSS`, `TypeScript`, `Framer Motion`, `Swiper`, and `Shaden UI`.
 
-**3. 10Web Clone (SaaS Website)**
+**3. 10Web UI Clone (SaaS Website)**
 * **Description:** A high-fidelity reconstruction of the 10web.io automated website builder platform.
 * **Responsibilities:** Developed a comprehensive library of reusable UI components to recreate the platform's interface with pixel-perfect accuracy and smooth transitions.
 * **Tech Stack:** `Next.js`, `TypeScript`, `Tailwind CSS`, `Framer Motion`, `Swiper`, `Shaden UI`, and `Radix UI`.
@@ -83,13 +83,13 @@ I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong sel
 ### **1. Graph Theory Algorithm Simulator**
 *Jan 2026 – May 2026 (Expected)*
 * **Description:** A desktop application for visualizing graph algorithms like DFS and Hierholzer using Cytoscape.js.
-* **Responsibilities:** Designed an interactive UI for graph CRUD operations and step-by-step algorithm simulation with real-time speed control. Managed data via JSON files and implemented image export features.
+* **Responsibilities:** Designed an interactive UI for graph CRUD operations and step-by-step algorithm simulation with real-time speed control. Managed data via JSON files.
 * **Tech Stack:** `Electron`, `Cytoscape.js`, `ReactJS`, `TypeScript`, `Tailwind CSS`, `Shaden UI`, and `Zustand`.
 
 ### **2. Smart Book Management & Search Website**
 *Sep 2025 – Dec 2025*
 * **Description:** A library management system featuring Semantic Search (Vector Search) and an integrated AI assistant.
-* **Responsibilities:** Developed RESTful APIs, managed JWT authentication, handled Cloudinary storage, and built the interactive UI. Implemented Semantic Search using embeddings from AI Studio/Hugging Face.
+* **Responsibilities:** Developed RESTful APIs, managed JWT authentication, handled Cloudinary storage, and built the interactive UI. Implemented Semantic Search using embeddings from AI Studio/Hugging Face. Containerized the application using Docker and deployed production-ready Docker images to Render.
 * **Tech Stack:** `Vue.js`, `PrimeVue`, `Express.js (TypeScript)`, `MongoDB`, `Docker`, `Cloudinary`, and `AI Studio/Hugging Face APIs`.
 
 ---
