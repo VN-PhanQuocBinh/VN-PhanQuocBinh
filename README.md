@@ -64,12 +64,12 @@ I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong sel
 **2. GiraTech Landing Page (Corporate Website) ([giratech.vn](https://giratech.vn/))**
 * **Description:** A corporate introduction website featuring an intelligent meeting summary tool.
 * **Responsibilities:** Implemented complex animations using Framer Motion and handled Markdown rendering from APIs for the "Smart Meeting Summary" feature.
-* **Tech Stack:** `Next.js`, `Tailwind CSS`, `TypeScript`, `Framer Motion`, `Swiper`, and `Shaden UI`.
+* **Tech Stack:** `Next.js`, `Tailwind CSS`, `TypeScript`, `Framer Motion`, `Swiper`, and `Shadcn UI`.
 
 **3. 10Web UI Clone (SaaS Website)**
 * **Description:** A high-fidelity reconstruction of the 10web.io automated website builder platform.
 * **Responsibilities:** Developed a comprehensive library of reusable UI components to recreate the platform's interface with pixel-perfect accuracy and smooth transitions.
-* **Tech Stack:** `Next.js`, `TypeScript`, `Tailwind CSS`, `Framer Motion`, `Swiper`, `Shaden UI`, and `Radix UI`.
+* **Tech Stack:** `Next.js`, `TypeScript`, `Tailwind CSS`, `Framer Motion`, `Swiper`, `Shadcn UI`, and `Radix UI`.
 
 **4. Loyalty App CMS (Member Management)**
 * **Description:** An administrative system for customer loyalty applications.
@@ -84,7 +84,7 @@ I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong sel
 *Jan 2026 – May 2026 (Expected)*
 * **Description:** A desktop application for visualizing graph algorithms like DFS and Hierholzer using Cytoscape.js.
 * **Responsibilities:** Designed an interactive UI for graph CRUD operations and step-by-step algorithm simulation with real-time speed control. Managed data via JSON files.
-* **Tech Stack:** `Electron`, `Cytoscape.js`, `ReactJS`, `TypeScript`, `Tailwind CSS`, `Shaden UI`, and `Zustand`.
+* **Tech Stack:** `Electron`, `Cytoscape.js`, `ReactJS`, `TypeScript`, `Tailwind CSS`, `Shadcn UI`, and `Zustand`.
 
 ### **2. Smart Book Management & Search Website**
 *Sep 2025 – Dec 2025*
