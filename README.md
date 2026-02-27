@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong self-learning spirit. Currently, I am a Software Engineering student at **Can Tho University** with a **GPA of 3.8/4.0**. I specialize in building high-performance UIs and integrating AI-driven features to deliver impactful user experiences.
+I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong self-learning spirit. Currently, I am a Software Engineering student at **Can Tho University**. I specialize in building high-performance UIs.
 
 ---
 
@@ -18,7 +18,7 @@ I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong sel
 
 | Institution / Certification | Achievement | Period |
 | :--- | :--- | :--- |
-| **Can Tho University** <br> *Bachelor of Software Engineering* | ![GPA](https://img.shields.io/badge/GPA-3.8%20%2F%204.0-gold?style=flat-square&logo=google-scholar&logoColor=white) | 2023 - 2027 |
+| **Can Tho University** <br> *Bachelor of Software Engineering* | ![GPA](https://img.shields.io/badge/GPA-3.8%20%2F%204.0-gold?style=flat-square&logo=google-scholar&logoColor=white) | 2023 - 2027 (Expected) |
 | **TOEIC Proficiency** <br> *English Certification* | ![TOEIC](https://img.shields.io/badge/TOEIC-675-blue?style=flat-square&logo=academia&logoColor=white) | Jan 2026 |
 
 
