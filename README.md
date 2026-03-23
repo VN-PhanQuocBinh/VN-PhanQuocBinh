@@ -81,12 +81,22 @@ I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong sel
 ## 🏗️ Academic Projects
 
 ### **1. Graph Theory Algorithm Simulator**
-*Jan 2026 – May 2026 (Expected)*
+*Jan 2026 – April 2026*
 * **Description:** A desktop application for visualizing graph algorithms like DFS and Hierholzer using Cytoscape.js.
 * **Responsibilities:** Designed an interactive UI for graph CRUD operations and step-by-step algorithm simulation with real-time speed control. Managed data via JSON files.
 * **Tech Stack:** `Electron`, `Cytoscape.js`, `ReactJS`, `TypeScript`, `Tailwind CSS`, `Shadcn UI`, and `Zustand`.
 
-### **2. Smart Book Management & Search Website**
+### **2. Trello Clone – Task Management System (Fullstack Developer - Team of 5)**
+*Jan 2026 – April 2026 (Expected)*
+* **Description:** A fullstack web application for task and project management based on the Board – Column – Card model,
+supporting real-time collaboration and task commenting.
+* **Responsibilities:** Developed frontend features using React.js and integrated RESTful APIs, while contributing to
+backend development with Spring Boot following MVC architecture. Implemented JWT-based authentication and real
+time commenting using WebSocket (STOMP). Collaborated with team members to ensure stable data flow between
+client and server, and handled deployment using Docker, Vercel, and Render.
+* **Tech Stack:** `React.js`, `TypeScript`, `Tailwindcss`, `Shadcn UI`, `Java Spring Boot`, `PostgreSQL (Neon)`, `JPA/Hibernate`, `WebSocket (STOMP)`, `Docker`, `Vercel`, `Render`.
+
+### **3. Smart Book Management & Search Website**
 *Sep 2025 – Dec 2025*
 * **Description:** A library management system featuring Semantic Search (Vector Search) and an integrated AI assistant.
 * **Responsibilities:** Developed RESTful APIs, managed JWT authentication, handled Cloudinary storage, and built the interactive UI. Implemented Semantic Search using embeddings from AI Studio/Hugging Face. Containerized the application using Docker and deployed production-ready Docker images to Render.
