@@ -2,144 +2,286 @@
   <img src="https://github.com/Yasmixe/Yasmixe/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Intro GIF" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=7CBBFF&center=true&vCenter=true&width=1000&height=100&lines=Hello+world!+I+am+Phan+Quoc+Binh;Software+Engineer+Student)](https://git.io/typing-svg)
-
-### <p align="center">Frontend Developer</p>
-
----
-
-## 💫 About Me
-
-I am **Phan Quoc Binh**, a highly adaptable Frontend Developer with a strong self-learning spirit. Currently, I am a Software Engineering student at **Can Tho University**. I specialize in building high-performance UIs.
-
----
-
-## 🎓 Education & Certifications
-
-| Institution / Certification | Achievement | Period |
-| :--- | :--- | :--- |
-| **Can Tho University** <br> *Bachelor of Software Engineering* | ![GPA](https://img.shields.io/badge/GPA-3.8%20%2F%204.0-gold?style=flat-square&logo=google-scholar&logoColor=white) | 2023 - 2027 (Expected) |
-| **TOEIC Proficiency** <br> *English Certification* | ![TOEIC](https://img.shields.io/badge/TOEIC-675-blue?style=flat-square&logo=academia&logoColor=white) | Jan 2026 |
-
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=blue)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### Tools & Others
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### **Frontend Developer (Remote/Part-time)** | Giratech AI
-*Jul 2025 – Feb 2026*
-
-**1. AI168 & CMS (AI Support Platform) ([ai168.vn](https://ai168.vn))**
-* **Description:** An integrated AI assistant system that automates tasks across sales, customer service, and human resources.
-* **Responsibilities:** Developed the UI and integrated APIs for core modules including Auth, Search, Profile, and Landing Pages. Built a custom CMS with flexible, template-based reusable Table components.
-* **Tech Stack:** `Next.js`, `TypeScript`, `Tailwind CSS`, `Shaden UI`, `Zustand`, `Axios`, `i18n`, `Zod`, and `React-hook-form`.
-
-**2. GiraTech Landing Page (Corporate Website) ([giratech.vn](https://giratech.vn/))**
-* **Description:** A corporate introduction website featuring an intelligent meeting summary tool.
-* **Responsibilities:** Implemented complex animations using Framer Motion and handled Markdown rendering from APIs for the "Smart Meeting Summary" feature.
-* **Tech Stack:** `Next.js`, `Tailwind CSS`, `TypeScript`, `Framer Motion`, `Swiper`, and `Shadcn UI`.
-
-**3. 10Web UI Clone (SaaS Website)**
-* **Description:** A high-fidelity reconstruction of the 10web.io automated website builder platform.
-* **Responsibilities:** Developed a comprehensive library of reusable UI components to recreate the platform's interface with pixel-perfect accuracy and smooth transitions.
-* **Tech Stack:** `Next.js`, `TypeScript`, `Tailwind CSS`, `Framer Motion`, `Swiper`, `Shadcn UI`, and `Radix UI`.
-
-**4. Loyalty App CMS (Member Management)**
-* **Description:** An administrative system for customer loyalty applications.
-* **Responsibilities:** Designed and implemented CRUD workflows for administrative data tables and developed highly reusable UI components.
-* **Tech Stack:** `Next.js`, `TypeScript`, `Shaden UI`, `React Query (TanStack)`, `Zod`, and `React-hook-form`.
-
----
-
-## 🏗️ Academic Projects
-
-### **1. Graph Theory Algorithm Simulator**
-*Jan 2026 – April 2026*
-* **Description:** A desktop application for visualizing graph algorithms like DFS and Hierholzer using Cytoscape.js.
-* **Responsibilities:** Designed an interactive UI for graph CRUD operations and step-by-step algorithm simulation with real-time speed control. Managed data via JSON files.
-* **Tech Stack:** `Electron`, `Cytoscape.js`, `ReactJS`, `TypeScript`, `Tailwind CSS`, `Shadcn UI`, and `Zustand`.
-
-### **2. Trello Clone – Task Management System (Fullstack Developer - Team of 5)**
-*Jan 2026 – April 2026 (Expected)*
-* **Description:** A fullstack web application for task and project management based on the Board – Column – Card model,
-supporting real-time collaboration and task commenting.
-* **Responsibilities:** Developed frontend features using React.js and integrated RESTful APIs, while contributing to
-backend development with Spring Boot following MVC architecture. Implemented JWT-based authentication and real
-time commenting using WebSocket (STOMP). Collaborated with team members to ensure stable data flow between
-client and server, and handled deployment using Docker, Vercel, and Render.
-* **Tech Stack:** `React.js`, `TypeScript`, `Tailwindcss`, `Shadcn UI`, `Java Spring Boot`, `PostgreSQL (Neon)`, `JPA/Hibernate`, `WebSocket (STOMP)`, `Docker`, `Vercel`, `Render`.
-
-### **3. Smart Book Management & Search Website**
-*Sep 2025 – Dec 2025*
-* **Description:** A library management system featuring Semantic Search (Vector Search) and an integrated AI assistant.
-* **Responsibilities:** Developed RESTful APIs, managed JWT authentication, handled Cloudinary storage, and built the interactive UI. Implemented Semantic Search using embeddings from AI Studio/Hugging Face. Containerized the application using Docker and deployed production-ready Docker images to Render.
-* **Tech Stack:** `Vue.js`, `PrimeVue`, `Express.js (TypeScript)`, `MongoDB`, `Docker`, `Cloudinary`, `AI Studio/Hugging Face APIs`, `Docker`, `Render`.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VN-PhanQuocBinh&theme=dark&hide_border=false" alt="Streak Stats" /><br/><br/>
-</div>
-
-<div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-PhanQuocBinh&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Contributions" alt="Activity Graph" />
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:binh26042005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/b%C3%ACnh-phan-37b555317/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="tel:+84387405218">
-    <img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=7CBBFF&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!+I'm+Phan+Quoc+Binh;Software+Engineer;Frontend+Developer" />
 </p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/quocbinh.phan.7509)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=02A8F7&background=00E0FF00&center=true&vCenter=true&width=1000&height=70&lines=Hello+World!;I+am+Phan+Quoc+Binh;A+Software+Engineer)](https://git.io/typing-svg)
 
-- 📍 **Location:** Can Tho City, Vietnam [cite: 6]
-- 💼 **Open to:** Frontend Developer roles [cite: 2]
-- 📱 **Direct:** (+84) 38 740 5218 
+<h3 align="center">
+Software Engineer
+</h3>
 
 ---
-## Contribution
+
+# 💫 About Me
+
+Hi! I'm **Phan Quoc Binh**, a Software Engineering student at **Can Tho University** with production experience in frontend development and hands-on backend development through internship and personal projects.
+
+I enjoy building reliable, maintainable software, continuously learning new technologies, and collaborating with teams to deliver real-world products.
+
+---
+
+# 🎓 Education & Certifications
+
+| Institution | Achievement | Period |
+|-------------|------------|--------|
+| **Can Tho University**<br>Software Engineering | ![GPA](https://img.shields.io/badge/GPA-3.81%20%2F%204.0-gold?style=flat-square) | 2023 - 2027 (Expected) |
+| **TOEIC** | ![TOEIC](https://img.shields.io/badge/TOEIC-675-blue?style=flat-square) | Jan 2026 |
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-B08D57?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-FFFFFF?style=for-the-badge&logo=shadcnui&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+## ⚙ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-F5F5F5?style=for-the-badge&logo=express&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-00A98F?style=for-the-badge)
+
+## 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+## 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-00C853?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+---
+
+# 💼 Professional Experience
+
+## Java Intern | FPT Software (Can Tho)
+
+**May 2026 – Aug 2026**
+
+- Developed and refactored application features.
+- Contributed to both frontend and backend development.
+- Fixed issues based on code review feedback.
+- Performed unit testing (UT0).
+- Participated in source code analysis.
+- Worked in Agile Scrum environment following Git Flow.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Git` `Git Flow` `Agile Scrum`
+
+---
+
+## Frontend Developer (Remote / Part-time) | Giratech AI
+
+**Jul 2025 – Feb 2026**
+
+### AI168 & CMS
+
+🌐 https://ai168.vn
+
+- Developed responsive UI.
+- Integrated APIs for authentication, search, profile and landing pages.
+- Built reusable CMS table components.
+
+**Tech**
+
+`React`
+`Next.js`
+`TypeScript`
+`Tailwind`
+`Shadcn UI`
+`Framer Motion`
+`Zustand`
+`Axios`
+`React Hook Form`
+`Zod`
+
+---
+
+### GiraTech Landing Page
+
+🌐 https://giratech.vn
+
+- Built responsive corporate website.
+- Developed meeting summary interface.
+- Implemented Markdown rendering.
+- Created smooth UI animations.
+
+---
+
+### Loyalty App CMS
+
+- Built CRUD business flows.
+- Developed reusable admin components.
+- Improved scalability and user experience.
+
+---
+
+### 10Web UI Clone
+
+- Built responsive shared component library.
+- Recreated 10web.io UI with high accuracy.
+
+---
+
+# 🚀 Projects
+
+## Graph Theory Algorithm Visualization
+
+**Software Developer**
+
+📅 Jan 2026 – Present
+
+GitHub
+
+https://github.com/VN-PhanQuocBinh/eulerian-cycle
+
+- Desktop application for graph visualization.
+- Interactive graph CRUD.
+- Hotkeys support.
+- Step-by-step algorithm visualization.
+- Adjustable simulation speed.
+
+**Tech**
+
+`Electron`
+`React`
+`TypeScript`
+`Cytoscape.js`
+`Zustand`
+
+---
+
+## Smart Book Management System
+
+**Fullstack Developer**
+
+📅 Sep 2025 – Dec 2025
+
+Backend
+
+https://github.com/VN-PhanQuocBinh/my-library
+
+Frontend
+
+https://github.com/VN-PhanQuocBinh/my-library-user-frontend
+
+CMS
+
+https://github.com/VN-PhanQuocBinh/my-library-admin-frontend
+
+- Fullstack library management system.
+- AI Assistant.
+- Vector Semantic Search.
+- JWT Authentication.
+- Docker deployment.
+
+**Tech**
+
+`Vue`
+`Express.js`
+`TypeScript`
+`MongoDB`
+`Cloudinary`
+`Docker`
+`Hugging Face API`
+`AI Studio`
+
+---
+
+## Trello Clone – Task Management System
+
+**Fullstack Developer (Team of 5)**
+
+📅 Jan 2026 – Apr 2026
+
+Frontend
+
+https://github.com/VN-PhanQuocBinh/frontend-project-management
+
+Backend
+
+https://github.com/CuongnNqiu-5252/CT240_task_management
+
+- Built task management system.
+- Authentication.
+- Real-time collaboration.
+- WebSocket comments.
+- Docker deployment.
+
+**Tech**
+
+`React`
+`Spring Boot`
+`PostgreSQL`
+`WebSocket`
+`Docker`
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=VN-PhanQuocBinh&theme=dark&hide_border=false" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VN-PhanQuocBinh&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Contributions"/>
+</div>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="mailto:binh26042005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/phan-quoc-binh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/quocbinh.phan.7509">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+- 📍 **Location:** Can Tho City, Vietnam
+- 💼 **Open to:** Frontend Developer • Software Engineer • Fullstack Developer
+- 📧 **Email:** binh26042005@gmail.com
+- 📱 **Phone:** (+84) 38 740 5218
+
+---
+
+# 🐍 Contribution
 
 ![Snake animation](https://github.com/VN-PhanQuocBinh/VN-PhanQuocBinh/blob/output/github-snake.svg)
+
 ---
 
-> “The best way to learn is to build.” – Let’s connect and build something meaningful together!
+> **"The best way to learn is to build."** 🚀
+>
+> Always learning, always building, and always improving.
