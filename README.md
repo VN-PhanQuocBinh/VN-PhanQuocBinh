@@ -2,9 +2,9 @@
   <img src="https://github.com/Yasmixe/Yasmixe/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Intro GIF" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=7CBBFF&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!+I'm+Phan+Quoc+Binh;Software+Engineer;Frontend+Developer" />
-</p>
+</p> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=02A8F7&background=00E0FF00&center=true&vCenter=true&width=1000&height=70&lines=Hello+World!;I+am+Phan+Quoc+Binh;A+Software+Engineer)](https://git.io/typing-svg)
 
